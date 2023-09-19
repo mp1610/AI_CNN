@@ -4,4 +4,4 @@ The project briefing attached shows the goal of the project as a large image dat
 
 Note: The imageset is too large to attach into the file repository, but the Code attached shows the set of results that are produced through using the image dataset.
 
-The final report which discusses the development of the project and the code is also used. The CNN is created using Tensorflow, including a range of hyperparameter tuning such as number of epochs, type of optimizer, type of activation function, CNN architecture etc.
+The final report which discusses the development of the project and the code is also provided. The CNN is created using Tensorflow, including a range of hyperparameter tuning such as number of epochs, type of optimizer, type of activation function, CNN architecture etc.
